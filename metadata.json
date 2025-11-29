@@ -1,0 +1,7 @@
+{
+  "name": "Murshid - AI Tourist Guide",
+  "description": "An intelligent, Arabic-speaking virtual tour guide powered by Gemini. Plan trips, discover local gems, and get real-time map recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
